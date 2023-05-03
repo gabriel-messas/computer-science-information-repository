@@ -13,3 +13,9 @@ Repository containing information about various and diverse topics throughout th
       - The key should be, at least, as long as the message and be used uniquely with a probability 1/|K| where |K| is the key space.
 
       - An example of this concept is the One-Time Pad (OTP) cipher.
+
+    - #### Diffusion
+      - Spreading statistical structural characteristics of the plaintext throughout the ciphertext.
+
+    - #### Confusion
+      - Making the relationship between the ciphertext and the key way too complex to be discovered.
